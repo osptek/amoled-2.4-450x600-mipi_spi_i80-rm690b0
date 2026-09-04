@@ -1,0 +1,25 @@
+# ESP-IDF / CMake
+**/build/
+**/.vscode/
+build/
+sdkconfig.old
+
+# Component Manager
+# **/managed_components/
+
+# Tools / OS
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*~
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# IDE
+.idea/
+.clangd
