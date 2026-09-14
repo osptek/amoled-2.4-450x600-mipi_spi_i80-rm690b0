@@ -29,7 +29,7 @@ This repository holds materials for the **2.4″ 450×600 AMOLED (SPI / MCU / MI
 
 The **root README is the navigation page**. Use the table below for a quick scan; open **Full docs** to enter that **part-number folder** under `versions/` (product page, datasheets, and examples live there).
 
-Repo id: `2.4-amoled-450x600-mipi-rm690b0`
+Repo id: `amoled-2.4-450x600-mipi-rm690b0`
 
 ---
 

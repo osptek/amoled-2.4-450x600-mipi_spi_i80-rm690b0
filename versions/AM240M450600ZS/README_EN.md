@@ -30,7 +30,7 @@
 
 OSPTEK **2.4″ 450×600 AMOLED** is a **SPI / MCU / MIPI** display module driven by **RM690B0**. Suited to sports cameras, smart-home terminals, and similar compact displays.
 
-Spec ID (repository name): `2.4-amoled-450x600-mipi-rm690b0`
+Spec ID (repository name): `amoled-2.4-450x600-mipi-rm690b0`
 
 Current module version: **AM240M450600ZS**. Electrical and mechanical details follow [`docs/AM240M450600ZS.pdf`](./docs/AM240M450600ZS.pdf).
 
@@ -49,7 +49,7 @@ Current module version: **AM240M450600ZS**. Electrical and mechanical details fo
 ## Repository layout
 
 ```text
-2.4-amoled-450x600-mipi-rm690b0/        # repo root (nav: ../../README_EN.md)
+amoled-2.4-450x600-mipi-rm690b0/        # repo root (nav: ../../README_EN.md)
 └── versions/
     └── AM240M450600ZS/                 # full materials for this part number
         ├── README.md
