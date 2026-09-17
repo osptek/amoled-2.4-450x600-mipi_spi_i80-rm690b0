@@ -10,5 +10,5 @@ shape: rect
 versions:
   - id: AM240M450600ZS
     driver: RM690B0
-    touch: none
-    note: 51-pin FPC
+    touch: TBD
+    note: 51-pin FPC with touch

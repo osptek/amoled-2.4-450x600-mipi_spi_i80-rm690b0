@@ -45,7 +45,7 @@
 
 <p align="center"><img alt="AM240M450600ZS" src="./versions/AM240M450600ZS/images/product.png" width="320" /></p>
 
-**说明：** FPC 为 51 Pin，无触摸。
+**说明：** FPC 为 51 Pin，带触摸；规格书未注明触摸 IC 型号。
 
 完整产品页、规格书与示例：[versions/AM240M450600ZS/](./versions/AM240M450600ZS/)
 

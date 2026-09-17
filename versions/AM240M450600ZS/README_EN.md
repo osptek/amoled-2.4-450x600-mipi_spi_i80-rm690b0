@@ -43,6 +43,7 @@ Current module version: **AM240M450600ZS**. Electrical and mechanical details fo
 | Resolution | 450×600 |
 | Interface | SPI / MCU / MIPI |
 | Driver IC | RM690B0 |
+| Touch | Yes (touch controller not specified) |
 
 > Full outline, FPC definition, power, and timing follow the product datasheet / driver IC datasheet.
 

@@ -45,7 +45,7 @@ Repo id: `amoled-2.4-450x600-mipi-rm690b0`
 
 <p align="center"><img alt="AM240M450600ZS" src="./versions/AM240M450600ZS/images/product.png" width="320" /></p>
 
-**Notes:** 51-pin FPC, no touch.
+**Notes:** 51-pin FPC with touch; the datasheet does not identify the touch controller.
 
 Full product page, datasheets, and examples: [versions/AM240M450600ZS/](./versions/AM240M450600ZS/)
 
