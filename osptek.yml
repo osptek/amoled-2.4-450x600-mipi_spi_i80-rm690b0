@@ -1,10 +1,10 @@
-id: amoled-2.4-450x600-mipi-rm690b0
+id: amoled-2.4-450x600-mipi_spi_i80-rm690b0
 category: displays
 
 size: "2.4"
 panel: amoled
 resolution: 450x600
-interface: [mipi]
+interface: [mipi, spi, i80]
 shape: rect
 
 versions:

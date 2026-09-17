@@ -30,7 +30,7 @@
 
 OSPTEK **2.4 寸 450×600 AMOLED** 是一款 **SPI / MCU / MIPI** 接口显示模组，驱动为 **RM690B0**。适用于运动相机与智能家居等显示终端。
 
-规格标识（仓库名）：`amoled-2.4-450x600-mipi-rm690b0`
+规格标识（仓库名）：`amoled-2.4-450x600-mipi_spi_i80-rm690b0`
 
 当前模组版本：**AM240M450600ZS**。电气与外形细节以 [`docs/AM240M450600ZS.pdf`](./docs/AM240M450600ZS.pdf) 为准。
 
@@ -50,7 +50,7 @@ OSPTEK **2.4 寸 450×600 AMOLED** 是一款 **SPI / MCU / MIPI** 接口显示�
 ## 仓库结构
 
 ```text
-amoled-2.4-450x600-mipi-rm690b0/        # 仓库根（导航见 ../../README.md）
+amoled-2.4-450x600-mipi_spi_i80-rm690b0/ # 仓库根（导航见 ../../README.md）
 └── versions/
     └── AM240M450600ZS/                 # 本料号完整资料
         ├── README.md
