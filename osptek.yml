@@ -11,4 +11,4 @@ versions:
   - id: AM240M450600ZS
     driver: RM690B0
     touch: none
-    note: 45-pin FPC
+    note: 51-pin FPC
