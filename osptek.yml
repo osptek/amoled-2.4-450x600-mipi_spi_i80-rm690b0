@@ -6,6 +6,7 @@ panel: amoled
 resolution: 450x600
 interface: [mipi, spi, i80]
 shape: rect
+corner: sharp
 
 versions:
   - id: AM240M450600ZS
