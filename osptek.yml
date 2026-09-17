@@ -1,0 +1,14 @@
+id: amoled-2.4-450x600-mipi-rm690b0
+category: displays
+
+size: "2.4"
+panel: amoled
+resolution: 450x600
+interface: [mipi]
+shape: rect
+
+versions:
+  - id: AM240M450600ZS
+    driver: RM690B0
+    touch: none
+    note: 45-pin FPC
